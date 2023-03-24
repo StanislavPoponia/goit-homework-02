@@ -19,6 +19,12 @@ text-transform: uppercase;
 color: #2E2F42; }
 
 /* header-info */
+
+.header-menu :hover,
+.header-menu :focus{ 
+  color: #404BBF; }
+
+
 .header-menu{
      font-style: normal;
      font-weight: 500;
@@ -71,7 +77,6 @@ color: #2E2F42; }
       
           
 
-                /* footer */
-                .logo-footer{
-                  color: #F4F4FD;
-                }
+                 /* footer */
+                 .logo-footer{
+                  color: #F4F4FD;}

@@ -1,98 +1,97 @@
-.list{ list-style: none;}
+.list {
+  list-style: none;
+}
 
-.body{ font-family: 'roboto';}
-
-
-
+.body {
+  font-family: "roboto", Arial, sans-serif;
+  font-style: normal;
+  color: #2E2F42;
+}
 
 /* logo Header */
-.web{ color: #4D5AE5;}
+.web {
+  color: #4d5ae5;
+}
 
-.logo
-{ font-family: 'Raleway';
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 21px;
-display: flex;
-align-items: center;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #2E2F42; }
+.logo {
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.16;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
 
 /* header-info */
 
 .header-menu:hover,
-.header-menu:focus{ 
-  color: #404BBF; }
+.header-menu:focus {
+  color: #404bbf;
+}
 
+.header-menu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 
-.header-menu{
-     font-style: normal;
-     font-weight: 500;
-     font-size: 16px;
-     line-height: 24px;
-     letter-spacing: 0.02em;
-     color: #2E2F42;}
+/* address */
+.address {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+a:hover,
+a:focus {
+  color: #404bbf;
+}
 
-    
-     /* address */
-     .address{
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
-        letter-spacing: 0.02em;
-        color: #2E2F42 ;
-      }
-       a:hover,
-       a:focus {color: #404BBF;
-      }
-          
-          
-           
-          
-          
-          /* menu-button */
-         .button{ font-style: normal;
-         font-weight: 500;
-         font-size: 16px;
-         line-height: 24px;
-         display: flex;
-         align-items: center;
-         text-align: center;
-         letter-spacing: 0.04em;
-         color: #4D5AE5;
-         background: #F4F4FD;
-        }
-         
+/* menu-button */
+.button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background: #f4f4fd;
+  cursor: pointer;
+}
 
-         
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+  color: #ffffff;
+  cursor: pointer;
+}
 
-           .button:hover,
-           .button:focus{ background-color:#404BBF;
-            color:#FFFFFF; 
-          }
+.button-hero {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 32px;
+  gap: 10px;
+  width: 169px;
+  height: 56px;
+  left: 636px;
+  top: 428px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  color: #ffffff;
+  cursor: pointer;
+}
 
-          
-            .button-hero{
-          display: flex;
-          flex-direction: row;
-          align-items: flex-start;
-          padding: 16px 32px;
-          gap: 10px;
-          width: 169px;
-          height: 56px;
-          left: 636px;
-          top: 428px;
-          background: #4D5AE5;
-          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-          border-radius: 4px;
-         color:#FFFFFF; }
-        
-      
-          
-
-                 /* footer */
-                 .logo-footer{
-                  color: #F4F4FD;}
+/* footer */
+.logo-footer {
+  color: #f4f4fd;
+}

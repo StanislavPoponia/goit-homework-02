@@ -3,6 +3,8 @@
 .body{ font-family: 'roboto';}
 
 
+
+
 /* logo Header */
 .web{ color: #4D5AE5;}
 
@@ -20,8 +22,8 @@ color: #2E2F42; }
 
 /* header-info */
 
-.header-menu :hover,
-.header-menu :focus{ 
+.header-menu:hover,
+.header-menu:focus{ 
   color: #404BBF; }
 
 
@@ -33,6 +35,7 @@ color: #2E2F42; }
      letter-spacing: 0.02em;
      color: #2E2F42;}
 
+    
      /* address */
      .address{
         font-style: normal;
@@ -40,8 +43,16 @@ color: #2E2F42; }
         font-size: 16px;
         line-height: 24px;
         letter-spacing: 0.02em;
-        color: #434455;}
-
+        color: #2E2F42 ;
+      }
+       a:hover,
+       a:focus {color: #404BBF;
+      }
+          
+          
+           
+          
+          
           /* menu-button */
          .button{ font-style: normal;
          font-weight: 500;
@@ -52,11 +63,16 @@ color: #2E2F42; }
          text-align: center;
          letter-spacing: 0.04em;
          color: #4D5AE5;
-         background: #F4F4FD}
+         background: #F4F4FD;
+        }
+         
 
-         .button:hover,
-         .button:focus{ background-color:#404BBF;
-            color:#FFFFFF; }
+         
+
+           .button:hover,
+           .button:focus{ background-color:#404BBF;
+            color:#FFFFFF; 
+          }
 
           
             .button-hero{

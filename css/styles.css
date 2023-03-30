@@ -48,6 +48,11 @@
 }
 
 /* address info */
+
+.address{
+  font-style: normal
+}
+
 .info{
   font-style: normal;
   position: absolute;

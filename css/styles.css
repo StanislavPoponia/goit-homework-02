@@ -39,6 +39,7 @@
 
 .header-menu {
   text-decoration:none
+  
 }
 
 .header-menu:hover,
@@ -46,6 +47,17 @@
   color: #404bbf;
 }
 
+
+.info{
+  position: absolute;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
 a {color: #2e2f42;
 }
 

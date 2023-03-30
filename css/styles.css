@@ -5,7 +5,7 @@
 }
 
 .body {
-  font-family: "Roboto", "sans-serif";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   color: #434455;
   background-color: #FFFFFF;
@@ -22,7 +22,7 @@
 }
 
 .logo {
-  font-family: "Raleway","sans-serif";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -122,9 +122,10 @@ a:focus {
 
 
 /* footer */
-.logo-footer {
-  color: #f4f4fd;
+.studio-footer {
+  color: #F4F4FD;;
 }
 .footer{
+  font-family: 'Raleway', sans-serif;
   background: #2E2F42;
 color: #ffffff;}

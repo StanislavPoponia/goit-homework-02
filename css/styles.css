@@ -6,6 +6,7 @@
   font-family: "roboto", Arial, sans-serif;
   font-style: normal;
   color: #2E2F42;
+  background-color: #ffffff;
 }
 
 /* logo Header */
@@ -94,7 +95,24 @@ a:focus {
   cursor: pointer;
 }
 
+
+.button-hero:hover,
+.button-hero:focus {
+  background: #404BBF;
+}
+
+/* Our Team */
+.team{
+  background: #F4F4FD;
+}
+
+
+
+
 /* footer */
 .logo-footer {
   color: #f4f4fd;
 }
+.footer{
+  background: #2E2F42;
+color: #ffffff;}

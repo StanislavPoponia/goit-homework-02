@@ -121,6 +121,19 @@ color: #434455; }
   background: #404BBF;
 }
 
+
+/* what we are do */
+
+.works{
+ font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
 /* Our Team */
 .team{
   background: #F4F4FD;

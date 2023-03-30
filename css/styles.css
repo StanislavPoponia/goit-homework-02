@@ -193,7 +193,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;}
 
-.name-team{
+.name-person {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -201,7 +201,10 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-.position{
+.name-team{
+  background-color: #FFFFFF}
+
+.position {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;

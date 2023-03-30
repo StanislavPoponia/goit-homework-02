@@ -1,12 +1,14 @@
+:root
+
 .list {
   list-style: none;
 }
 
 .body {
-  font-family: "roboto", Arial, sans-serif;
+  font-family: "Roboto", "sans-serif";
   font-style: normal;
-  color: #2E2F42;
-  background-color: #E5E5E5;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 /* Header */
@@ -15,23 +17,28 @@
   background: #FFFFFF;
 }
 
-.web {
-  color: #4d5ae5;
+.studio { 
+  color: #2e2f42;
 }
 
 .logo {
-  font-family: "Raleway";
+  font-family: "Raleway","sans-serif";
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
+  text-decoration: none
 }
 
 /* header-info */
+
+.header-menu {
+  text-decoration:none
+}
 
 .header-menu:hover,
 .header-menu:focus {

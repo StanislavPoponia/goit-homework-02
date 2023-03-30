@@ -38,7 +38,7 @@
 
 
 .header-menu {
-  text-decoration:none
+  text-decoration: none
   
 }
 
@@ -54,8 +54,6 @@
 }
 
 .info{
-  font-style: normal;
-  position: absolute;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -63,10 +61,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455; }
 
-a:hover,
-a:focus {
-  color: #404bbf;
+.info:hover,
+.info:focus{
+  color: #404bbf ;
 }
+
 
 .header-menu {
   font-weight: 500;

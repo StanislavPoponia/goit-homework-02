@@ -6,10 +6,15 @@
   font-family: "roboto", Arial, sans-serif;
   font-style: normal;
   color: #2E2F42;
-  background-color: #ffffff;
+  background-color: #E5E5E5;
 }
 
-/* logo Header */
+/* Header */
+
+.header{
+  background: #FFFFFF;
+}
+
 .web {
   color: #4d5ae5;
 }

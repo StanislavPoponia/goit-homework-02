@@ -223,3 +223,22 @@ color: #434455;
   font-family: 'Raleway', sans-serif;
   background: #2E2F42;
 color: #ffffff;}
+
+
+/* portolio */
+
+.examples{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.kind{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  }
